@@ -11,8 +11,6 @@ This repository contains notes from the Rochester Institute of Technology (RIT) 
 
 ## License
 
-Creative Commons
-
 RIT-ISTE-190-2151 by [Justin W. Flory](https://justinwflory.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
