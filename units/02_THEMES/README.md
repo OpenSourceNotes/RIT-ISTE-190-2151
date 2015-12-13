@@ -30,11 +30,11 @@ ISTE-190 - Course Themes Overview
 
 ## Ubiquitous computing (ubiq)
 * Enabled by constant connectivity (see mobile tech)
- * Computing anywhere, any time
-  * Any device in any form factor (desktop, laptop, tablet, smartphone, etc.)
-  * Any place (home, school, work, train, bus, automobile, TV, etc.)
- * Data and information everywhere (home, work, school, cloud)
-  * Embedded in environment (GPS)
+* Computing anywhere, any time
+ * Any device in any form factor (desktop, laptop, tablet, smartphone, etc.)
+ * Any place (home, school, work, train, bus, automobile, TV, etc.)
+* Data and information everywhere (home, work, school, cloud)
+ * Embedded in environment (GPS)
  * Natural interfaces (voice, gesture, eye blink)
 
 ## Mobile
